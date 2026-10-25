@@ -1,0 +1,10 @@
+
+# Web API framework
+fastapi>=0.115,<1.0
+
+# ASGI development server
+uvicorn>=0.30,<1.0
+
+# Automated testing
+pytest>=8,<10
+httpx>=0.27,<1.0
